@@ -1,0 +1,1 @@
+onst prompt = require('prompt-sync')({ sigint: true });
